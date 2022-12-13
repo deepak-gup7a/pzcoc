@@ -1,5 +1,5 @@
 # pzcoc
-photo-z CO classifier
+photo-z Catastrophic Outlier (CO) classifier
 
 ### Objective
 The objective of this project is to predict Catastrophic Outlier (CO) that will give a high difference in the predicted redshift and the actual redshift in the photometric data of galaxies. Till now research has been done on SVM classifiers and different ANN classifiers have been used to classify these COs. For our project we used neural architecture search to create a deep neural network which could do the classification of COs and Non-Outliers (NOs).
