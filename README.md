@@ -11,5 +11,6 @@ The objective of this project is to predict Catastrophic Outlier (CO) that will 
 4. <a href="https://drive.google.com/file/d/1-EnYu1fJdBod0CGABRwd6fBafdYtV84j/view" target="_blank">Small Dataset</a>
 
 ### Results
+1. Comparison between top 5 models
 
-
+![cbtm](https://user-images.githubusercontent.com/59966073/207367488-5749155f-d779-4859-bc90-f6ddcb3a075a.png)
