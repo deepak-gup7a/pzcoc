@@ -14,3 +14,9 @@ The objective of this project is to predict Catastrophic Outlier (CO) that will 
 1. Comparison between top 5 models
 
 ![cbtm](https://user-images.githubusercontent.com/59966073/207367488-5749155f-d779-4859-bc90-f6ddcb3a075a.png)
+
+### References
+* Machine Learning Classification to Identify Catastrophic Outlier Photometric
+Redshift Estimates, J. Singal, G. Silverman, E. Jones, T. Do, B. Boscoe et al., e-Print:
+2112.07811 [astro-ph.CO], DOI: 10.3847/1538-4357/ac53b5, Published in:
+Astrophys.J. 928 (2022) 1, 6
